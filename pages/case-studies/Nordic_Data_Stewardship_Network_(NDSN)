@@ -93,6 +93,14 @@ related_pages:
 #
 # Both forms can be mixed in the same list.
 # ---------------------------------------------------------------------------
+
+related_pages:
+  Guidance:
+    - g-support-networks
+  Maturity_Indicator:
+    - mm-strategy-align-with-best-practices 
+    - mm-support-network
+
 resources:
   - name: "Nordic Data Stewardship Network"
     url: https://datice.is/en/nordic-data-stewardship-network
